@@ -79,7 +79,7 @@ Example commands:
 ## Usage <a name="usage"></a>
 
 - To run the project, execute the following command in command line:
-> rspec spec/Solver_spec.rb
+> rspec spec/solver_spec.rb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
