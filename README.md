@@ -12,7 +12,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -76,7 +75,7 @@ Example commands:
   git clone git@github.com:Rishi-Mishra0704/TDD-playground.git
 ```
 
-## Usage <a name="usage"></a>
+## Run tests <a name="Run tests"></a>
 
 - To run the project, execute the following command in command line:
 > rspec spec/solver_spec.rb
