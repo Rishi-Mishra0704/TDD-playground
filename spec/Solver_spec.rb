@@ -1,5 +1,5 @@
 require_relative '../Solver'
-require 'rspec'   
+require 'rspec'
 
 RSpec.describe Solver do
   describe '#factorial' do
@@ -12,7 +12,7 @@ RSpec.describe Solver do
       solver = Solver.new
       expect(solver.factorial(5)).to eq(120)
       expect(solver.factorial(6)).to eq(720)
-      expect(solver.factorial(10)).to eq(3628800)
+      expect(solver.factorial(10)).to eq(3_628_800)
     end
 
     it 'raises an ArgumentError for negative integers' do
