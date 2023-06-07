@@ -46,11 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Prerequisites <a name="Prerequisites"></a>
-In order to run this project you need:
-- Git and GitHub
-- A code editor
-- Ruby
 
 <!-- GETTING STARTED -->
 
@@ -75,7 +70,23 @@ Example commands:
   git clone git@github.com:Rishi-Mishra0704/TDD-playground.git
 ```
 
-## Run tests <a name="Run tests"></a>
+
+### Prerequisites 
+
+In order to run this project you need:
+- Git and GitHub
+- A code editor
+- Ruby
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+- gem install rspec
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Run tests 
 
 - To run the project, execute the following command in command line:
 > rspec spec/solver_spec.rb
